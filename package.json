@@ -2,7 +2,10 @@
   "name": "comet-backend-engineer-test",
   "version": "1.0.0",
   "description": "comet backend engineer test",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.24.0",
+    "ramda": "^0.26.1"
+  },
   "engines": {
     "node": "10.15.0"
   },
